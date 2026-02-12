@@ -1,0 +1,5 @@
+profissao 1 jogador de futrbol .
+profissao 2 engenheiro eletrico.
+sou bom : com eletrica, por causa do meu pai.
+  2 não tenho a ver: ginasta e piloto de aviao
+  
